@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <script src="./vue.js"></script>
+        <title>Document</title>
+    </head>
+
+    <body>
+        <main id="app">
+            <div id="div" v-show="tela1">
+                <form>
+                    <h4>Cálculo de IMC</h4>
+                    <label>Altura (m):</label>
+                    <br>
+                    <input type="text" v-model="altura" v-bind:class="bordaAltura" maxlength="4" placeholder="Ex: 1.70" onkeypress="mask('#.##', this)" required>
+                    <br>
+                    <label>Peso (kg):</label>
+                    <br>
+                    <input type="text" v-model="peso" v-bind:class="bordaPeso" maxlength="3" placeholder="Ex: 70" required>
+                    <br>
+                    <button v-on:click.prevent="imc()">Calcular IMC</button> 
+                </form>
+            </div>
+            <article id="resp" v-show="tela2">
+                <img :src="src" alt="">
+                <p id="texto"> IMC: {{arredondar}}</p>
+                <h2 id="estado">{{estado}}</h2>
+                <p id="texto">{{texto}}</p>
+                <button @click="retornar()">Retornar</button>
+            </article>
+        </main>
+
+        <script src="script.js"></script>
+    </body>
+</html>
