@@ -4,6 +4,12 @@
 ✅Utilizado Framework Vue.JS
 <br>
 ✅Responsivo
+
+<div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=calc_imc"/>
+  <a href="https://github.com/fabioVitorio">
+</div>
+  
 ##
 ![1](https://user-images.githubusercontent.com/109548564/203212916-7a727e85-aa4a-4a73-9a79-a92809c2c795.PNG)
 ##
