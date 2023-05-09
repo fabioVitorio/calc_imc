@@ -1,10 +1,12 @@
-# Calculadora de índice de massa corporal (imc) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="html5" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="html5" width="40" height="40"/>
-✅Calcula o índice de massa corporal e dá a indicação
+# ⚙️ *Calculadora IMC* 
 <br>
-✅Utilizado Framework Vue.JS
-<br>
-✅Responsivo
 
+>✅Calcula o índice de massa corporal e dá a indicação
+><br>
+>✅Utilizado Framework Vue.JS
+><br>
+>✅Responsivo
+<br>
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=calc_imc"/>
   <a href="https://github.com/fabioVitorio">
