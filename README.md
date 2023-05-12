@@ -1,4 +1,4 @@
-### <p align='center'> ![logoMental](https://github.com/fabioVitorio/app/assets/109548564/efd92611-26ee-4789-a991-5395155c7e7f) </p>
+### <p align='center'> <img src="https://github.com/fabioVitorio/calc_imc/assets/109548564/e85309d6-318e-44a0-bbe4-b36e050c198f" width="150"/> </p>
 <br>
 <p align='center'> Body mass index calculator performed using the Vue.Js framework <br></p>
 
