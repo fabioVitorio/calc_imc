@@ -25,8 +25,8 @@
 </div>
   
 ##
-![1](https://user-images.githubusercontent.com/109548564/203212916-7a727e85-aa4a-4a73-9a79-a92809c2c795.PNG)
+![Screenshot_3](https://github.com/fabioVitorio/calc_imc/assets/109548564/61b550d2-7c12-478a-81e4-017682b531aa)
 ##
-![2](https://user-images.githubusercontent.com/109548564/203212912-0f163dd4-9d86-48e6-abbd-7909c645a8cb.PNG)
+![Screenshot_2](https://github.com/fabioVitorio/calc_imc/assets/109548564/6a88e6ed-e9bb-491a-8e76-9df3d1383917)
 
 
